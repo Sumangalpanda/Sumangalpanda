@@ -50,21 +50,43 @@ Email: sumangalpanda16@gmail.com
 </p>
 
 ---
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 🍽 ArenaLive Restaurant Management System
+## 🍽 ArenaLive Restaurant Management System
 
-- Order Management
-- Menu Management
-- Admin Dashboard
+✅ Restaurant Dashboard
 
-### 🌦 Weather Forecasting Project
+✅ Menu Management
 
-- Live Weather API
-- Forecast Analytics
-- Location Search
+✅ Order Tracking
+
+✅ Customer Management
+
+✅ Admin Panel
 
 ---
+
+## 🌦 Weather Forecasting Application
+
+✅ Real-Time Weather API
+
+✅ Forecast Analytics
+
+✅ Location Search
+
+✅ Responsive Design
+
+---
+
+## 💼 Portfolio Website
+
+✅ Modern UI
+
+✅ Responsive Design
+
+✅ Fast Performance
+
+✅ GitHub Integration
 
 ## 📊 GitHub Stats
 
