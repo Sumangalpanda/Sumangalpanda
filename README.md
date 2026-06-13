@@ -38,7 +38,25 @@ MongoDB • MySQL • Firebase
 Git • GitHub • VS Code
 
 ---
+---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumangalpanda&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumangalpanda&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumangalpanda&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 ## 🚀 Projects
 
 ### 🍽 ArenaLive Restaurant Management System
