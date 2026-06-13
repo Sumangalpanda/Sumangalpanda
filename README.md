@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 💻 Full Stack Developer
 - 🌱 Learning Next.js & TypeScript
 - ⚡ Building Modern Web Applications
