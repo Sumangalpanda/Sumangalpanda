@@ -58,11 +58,13 @@
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumangalpanda&theme=tokyonight&hide_border=true"/>
 </p>
- 🔥 Daily Coding Stats
+ ## 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sumangal&theme=tokyonight&hide_border=true"/>
-</p>
+- 🚀 Full Stack Developer
+- 💻 Built Multiple Web Applications
+- 🌱 Learning Next.js & TypeScript
+- 🎯 Open To Software Engineering Opportunities
+- 🔥 Active GitHub Contributor
  💻 Most Used Languages
 
 <p align="center">
