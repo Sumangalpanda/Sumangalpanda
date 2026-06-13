@@ -62,46 +62,43 @@
 </p>
 
 ---
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🍽 ArenaLive Restaurant Management System
+### 🍽 ArenaLive Restaurant Management System
+🔗 Live Demo: Coming Soon
 
-✅ Restaurant Dashboard
+💻 Tech Stack: React, Node.js, MongoDB, Express
 
-✅ Menu Management
-
-✅ Order Tracking
-
-✅ Customer Management
-
-✅ Admin Panel
-
----
-
-## 🌦 Weather Forecasting Application
-
-✅ Real-Time Weather API
-
-✅ Forecast Analytics
-
-✅ Location Search
-
-✅ Responsive Design
+✨ Features:
+- Restaurant Dashboard
+- Order Management
+- Customer Tracking
+- Analytics Dashboard
+- Admin Panel
 
 ---
 
-## 💼 Portfolio Website
+### 🌦 Weather Forecasting Application
 
-✅ Modern UI
+💻 Tech Stack: React, OpenWeather API
 
-✅ Responsive Design
+✨ Features:
+- Real-Time Weather Data
+- Forecast Analytics
+- Location Search
+- Responsive UI
 
-✅ Fast Performance
+---
 
-✅ GitHub Integration
+### 💼 Portfolio Website
 
-## 📊 GitHub Stats
+💻 Tech Stack: Next.js, Tailwind CSS
 
+✨ Features:
+- Modern UI
+- Responsive Design
+- Fast Performance
+- GitHub Integration
 ![Stats](https://github-readme-stats.vercel.app/api?username=Sumangalpanda&show_icons=true&theme=tokyonight)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumangalpanda&layout=compact&theme=tokyonight)
