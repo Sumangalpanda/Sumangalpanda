@@ -104,3 +104,12 @@ Email: sumangalpanda16@gmail.com
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sumangalpanda&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
+---
+
+<h3 align="center">
+🚀 Code • Build • Deploy • Repeat 🚀
+</h3>
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
