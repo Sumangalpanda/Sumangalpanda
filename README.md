@@ -128,6 +128,11 @@
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sumangalpanda&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 ## 🐍 Contribution Snake
 
 <p align="center">
