@@ -10,8 +10,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;Next.js+Developer;Software+Engineer;Building+Modern+Web+Applications" />
 </p>
 
-
-
  🚀 About Me
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 💻 Full Stack Developer
@@ -19,6 +17,7 @@
 - ⚡ Building Modern Web Applications
 - 🎯 Open To Software Engineering Opportunities
 <br clear="right"/>
+
    🎯 Current Focus
 
 - Building Full Stack Projects
@@ -86,8 +85,6 @@
 - Analytics Dashboard
 - Admin Panel
 
-
-
  🌦 Weather Forecasting Application
 
 💻 Tech Stack: React, OpenWeather API
@@ -97,8 +94,6 @@
 - Forecast Analytics
 - Location Search
 - Responsive UI
-
-
 
  💼 Portfolio Website
 
@@ -138,7 +133,7 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumangalpanda&theme=tokyo-night"/>
 </p>
-## 🧠 Problem Solving
+ 🧠 Problem Solving
 
 - 💡 Data Structures & Algorithms
 - ⚡ Problem Solving Enthusiast
