@@ -19,7 +19,7 @@
 - ⚡ Building Modern Web Applications
 - 🎯 Open To Software Engineering Opportunities
 <br clear="right"/>
----## 🎯 Current Focus
+  ## 🎯 Current Focus
 
 - Building Full Stack Projects
 - Improving DSA Skills
