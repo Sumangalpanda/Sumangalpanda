@@ -1,7 +1,4 @@
 <p align="center">
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="700"/>
-</p>
-<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
 </p>
 
