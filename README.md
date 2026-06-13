@@ -138,6 +138,13 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumangalpanda&theme=tokyo-night"/>
 </p>
+## 🧠 Problem Solving
+
+- 💡 Data Structures & Algorithms
+- ⚡ Problem Solving Enthusiast
+- 🎯 Learning System Design
+- 🚀 Building Scalable Applications
+
  🏅 Achievements
 
 - 🚀 Full Stack Developer
