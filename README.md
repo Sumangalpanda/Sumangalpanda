@@ -176,11 +176,6 @@ Take one down, patch it around,
 - 🎯 Open To Software Engineering Opportunities
 - 🔥 Active GitHub Contributor
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sumangalpanda&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
  🐍 Contribution Snake
 
 <p align="center">
@@ -191,6 +186,19 @@ Take one down, patch it around,
 > "First, solve the problem. Then, write the code."
 >
 > — John Johnson
+
+ 🎯 Career Objective
+Passionate Full Stack Developer focused on building scalable web applications and continuously improving problem-solving skills. Looking for opportunities to contribute to impactful software projects and grow as a Software Engineer.
+ 🤝 Let's Collaborate
+
+💬 Open for collaboration on:
+
+- Full Stack Projects
+- React / Next.js Applications
+- Open Source Contributions
+- Startup Ideas
+- Web Development Projects
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
