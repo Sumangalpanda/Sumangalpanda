@@ -58,7 +58,7 @@
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumangalpanda&theme=tokyonight&hide_border=true"/>
 </p>
- ## 🏆 GitHub Achievements
+  🏆 GitHub Achievements
 
 - 🚀 Full Stack Developer
 - 💻 Built Multiple Web Applications
