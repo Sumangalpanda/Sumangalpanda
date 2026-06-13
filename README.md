@@ -1,6 +1,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Sumangal+Panda;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Open+To+Work+🚀" />
 </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750060-f7d0b8e6-2f4f-4f4d-9c4d-5c3f5b7e7a6e.gif" width="700"/>
+</p>
+
 # 👋 Hi, I'm Sumangal Panda
 
 ### 🚀 Full Stack Developer | React • Next.js • Node.js
@@ -10,27 +14,33 @@
 </p>
 
 ---
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Sumangal+Panda;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Open+To+Work+🚀" />
-</p>
+
 ## 🚀 About Me
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 💻 Full Stack Developer
 - 🌱 Learning Next.js & TypeScript
 - ⚡ Building Modern Web Applications
 - 🎯 Open To Software Engineering Opportunities
-
+<br clear="right"/>
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/sumangal-panda-7b04a1346)
+<p align="center">
 
-[GitHub](https://github.com/Sumangalpanda)
+<a href="https://linkedin.com/in/sumangal-panda-7b04a1346">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Email: sumangalpanda16@gmail.com
+<a href="mailto:sumangalpanda16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/Sumangalpanda">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 ## ⚡ Tech Stack
 
 <p align="center">
