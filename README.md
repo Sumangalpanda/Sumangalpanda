@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Sumangal+Panda;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Open+To+Work+🚀" />
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750060-f7d0b8e6-2f4f-4f4d-9c4d-5c3f5b7e7a6e.gif" width="700"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
 </p>
 
 # 👋 Hi, I'm Sumangal Panda
