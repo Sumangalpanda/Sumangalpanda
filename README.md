@@ -140,6 +140,34 @@
 - 🎯 Learning System Design
 - 🚀 Building Scalable Applications
 
+ 🛠 Development Workflow
+
+Idea 💡 → Design 🎨 → Code 💻 → Test 🧪 → Deploy 🚀
+
+ 📚 Currently Learning
+
+- Next.js 15
+- TypeScript
+- System Design
+- Cloud Computing
+- Docker Basics
+- 
+   ⚡ Fun Fact
+
+☕ I turn coffee into code.
+
+🐛 99 bugs in the code...
+Take one down, patch it around,
+127 bugs in the code.
+
+ 🌟 2026 Goals
+
+- [ ] Contribute to Open Source
+- [ ] Build 5 Production Projects
+- [ ] Master Next.js
+- [ ] Learn AWS Basics
+- [ ] Reach 100+ GitHub Contributions
+      
  🏅 Achievements
 
 - 🚀 Full Stack Developer
