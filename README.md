@@ -2,15 +2,15 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
 </p>
 
- 👋 Hi, I'm Sumangal Panda
+ ## 👋 Hi, I'm Sumangal Panda
 
- 🚀 Full Stack Developer | React • Next.js • Node.js
+## 🚀 Full Stack Developer | React • Next.js • Node.js
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;Next.js+Developer;Software+Engineer;Building+Modern+Web+Applications" />
 </p>
 
- 🚀 About Me
+## 🚀 About Me
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 💻 Full Stack Developer
 - 🌱 Learning Next.js & TypeScript
@@ -18,7 +18,7 @@
 - 🎯 Open To Software Engineering Opportunities
 <br clear="right"/>
 
-   🎯 Current Focus
+  ## 🎯 Current Focus
 
 - Building Full Stack Projects
 - Improving DSA Skills
@@ -26,7 +26,7 @@
 - Exploring Cloud Technologies
 
 
- 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -43,40 +43,41 @@
 </a>
 
 </p>
- ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman,vercel" />
 </p>
 
 
- 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumangalpanda&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumangalpanda&theme=tokyonight&hide_border=true"/>
 </p>
-  🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 - 🚀 Full Stack Developer
 - 💻 Built Multiple Web Applications
 - 🌱 Learning Next.js & TypeScript
 - 🎯 Open To Software Engineering Opportunities
 - 🔥 Active GitHub Contributor
- 💻 Most Used Languages
+  
+## 💻 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumangalpanda&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
- 🚀 Featured Projects
+## 🚀 Featured Projects
 
  🍽 ArenaLive Restaurant Management System
 🔗 Live Demo: Coming Soon
 
-💻 Tech Stack: React, Node.js, MongoDB, Express
+## 💻 Tech Stack: React, Node.js, MongoDB, Express
 
 ✨ Features:
 - Restaurant Dashboard
@@ -121,38 +122,39 @@
 
 
 <h3 align="center">
-🚀 Code • Build • Deploy • Repeat 🚀
+  
+## 🚀 Code • Build • Deploy • Repeat 🚀
 </h3>
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
 </p>
 
- 💻 Coding Activity
+## 💻 Coding Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumangalpanda&theme=tokyo-night"/>
 </p>
- 🧠 Problem Solving
+## 🧠 Problem Solving
 
 - 💡 Data Structures & Algorithms
 - ⚡ Problem Solving Enthusiast
 - 🎯 Learning System Design
 - 🚀 Building Scalable Applications
 
- 🛠 Development Workflow
+## 🛠 Development Workflow
 
 Idea 💡 → Design 🎨 → Code 💻 → Test 🧪 → Deploy 🚀
 
- 📚 Currently Learning
+## 📚 Currently Learning
 
 - Next.js 15
 - TypeScript
 - System Design
 - Cloud Computing
 - Docker Basics
-- 
-   ⚡ Fun Fact
+   
+ ##⚡ Fun Fact
 
 ☕ I turn coffee into code.
 
@@ -160,7 +162,7 @@ Idea 💡 → Design 🎨 → Code 💻 → Test 🧪 → Deploy 🚀
 Take one down, patch it around,
 127 bugs in the code.
 
- 🌟 2026 Goals
+## 🌟 2026 Goals
 
 - [ ] Contribute to Open Source
 - [ ] Build 5 Production Projects
@@ -168,7 +170,7 @@ Take one down, patch it around,
 - [ ] Learn AWS Basics
 - [ ] Reach 100+ GitHub Contributions
       
- 🏅 Achievements
+## 🏅 Achievements
 
 - 🚀 Full Stack Developer
 - 💻 Built Multiple Web Applications
@@ -176,7 +178,7 @@ Take one down, patch it around,
 - 🎯 Open To Software Engineering Opportunities
 - 🔥 Active GitHub Contributor
 
- 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Sumangalpanda/Sumangalpanda/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -187,13 +189,13 @@ Take one down, patch it around,
 >
 > — John Johnson
 
- 🎯 Career Objective
+## 🎯 Career Objective
 Passionate Full Stack Developer focused on building scalable web applications and continuously improving problem-solving skills. Looking for opportunities to contribute to impactful software projects and grow as a Software Engineer.
  
  
  🤝 Let's Collaborate
 
-💬 Open for collaboration on:
+## 💬 Open for collaboration on:
 
 - Full Stack Projects
 - React / Next.js Applications
