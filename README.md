@@ -146,6 +146,11 @@
 <p align="center">
   <img src="https://github.com/Sumangalpanda/Sumangalpanda/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+## 💡 Developer Quote
+
+> "First, solve the problem. Then, write the code."
+>
+> — John Johnson
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
