@@ -26,19 +26,12 @@
 Email: sumangalpanda16@gmail.com
 
 ---
+## ⚡ Tech Stack
 
-## 🛠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman,vercel" />
+</p>
 
-HTML • CSS • JavaScript • TypeScript
-
-React • Next.js • Node.js
-
-MongoDB • MySQL • Firebase
-
-Git • GitHub • VS Code
-
----
----
 
 ## 📊 GitHub Statistics
 
