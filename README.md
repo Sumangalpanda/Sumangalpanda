@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
 </p>
 
- ## 👋 Hi, I'm Sumangal Panda
+ #👋 Hi, I'm Sumangal Panda
 
 ## 🚀 Full Stack Developer | React • Next.js • Node.js
 
