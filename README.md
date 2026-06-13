@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumangal Panda
 
-<!--
-**Sumangalpanda/Sumangalpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | React • Next.js • Node.js
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;Next.js+Developer;Software+Engineer;Building+Modern+Web+Applications" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🌱 Learning Next.js & TypeScript
+- ⚡ Building Modern Web Applications
+- 🎯 Open To Software Engineering Opportunities
+
+---
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/sumangal-panda-7b04a1346)
+
+[GitHub](https://github.com/Sumangalpanda)
+
+Email: sumangalpanda16@gmail.com
+
+---
+
+## 🛠 Tech Stack
+
+HTML • CSS • JavaScript • TypeScript
+
+React • Next.js • Node.js
+
+MongoDB • MySQL • Firebase
+
+Git • GitHub • VS Code
+
+---
+
+## 🚀 Projects
+
+### 🍽 ArenaLive Restaurant Management System
+
+- Order Management
+- Menu Management
+- Admin Dashboard
+
+### 🌦 Weather Forecasting Project
+
+- Live Weather API
+- Forecast Analytics
+- Location Search
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Sumangalpanda&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumangalpanda&layout=compact&theme=tokyonight)
+
