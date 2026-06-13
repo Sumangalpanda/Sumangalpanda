@@ -58,7 +58,11 @@
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumangalpanda&theme=tokyonight&hide_border=true"/>
 </p>
+ 🔥 Daily Coding Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sumangal&theme=tokyonight&hide_border=true"/>
+</p>
  💻 Most Used Languages
 
 <p align="center">
