@@ -128,6 +128,13 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumangalpanda&theme=tokyo-night"/>
 </p>
+## 🏅 Achievements
+
+- 🚀 Full Stack Developer
+- 💻 Built Multiple Web Applications
+- 🌱 Learning Next.js & TypeScript
+- 🎯 Open To Software Engineering Opportunities
+- 🔥 Active GitHub Contributor
 ## 🐍 Contribution Snake
 
 <p align="center">
