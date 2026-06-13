@@ -189,6 +189,8 @@ Take one down, patch it around,
 
  🎯 Career Objective
 Passionate Full Stack Developer focused on building scalable web applications and continuously improving problem-solving skills. Looking for opportunities to contribute to impactful software projects and grow as a Software Engineer.
+ 
+ 
  🤝 Let's Collaborate
 
 💬 Open for collaboration on:
